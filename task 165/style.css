@@ -1,0 +1,50 @@
+.container {
+  border: 5px solid blue;
+}
+
+.box {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.box-1 {
+  background-color: aqua;
+}
+
+.box-2 {
+  background-color: black;
+}
+
+.box-3 {
+    font-size: 60px;
+  background-color: greenyellow;
+}
+
+.box-4 {
+  background-color: purple;
+}
+
+.box-5 {
+  background-color: palevioletred;
+}
+
+
+.generic{
+    background-color: yellow;
+
+}
+
+.name-example{
+    padding: 20px;
+    border:  20px green  dotted;
+    text-align: center;
+}
+
+.letter{
+padding: 50px;
+font-size: 80px;
+color: brown;
+}
+
